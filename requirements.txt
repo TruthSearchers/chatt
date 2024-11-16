@@ -1,0 +1,8 @@
+langchain
+langchain-aws
+streamlit
+boto3
+pdfplumber
+python-dotenv
+langchain_community
+PyPDF2
